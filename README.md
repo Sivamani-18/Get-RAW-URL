@@ -1,2 +1,4 @@
 Get Image URL
-<img width="2356" height="1428" alt="image" src="https://github.com/user-attachments/assets/fc3a7547-15e2-4787-9370-69232d66842f" />
+
+
+<img width="1167" height="709" alt="Screenshot 2026-03-17 at 1 23 28 PM" src="https://github.com/user-attachments/assets/2e820e27-ac10-4e36-807e-b656c4632906" />
